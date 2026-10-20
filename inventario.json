@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "Arroz",
+        "precio": 5.5,
+        "stock": 15
+    },
+    {
+        "nombre": "Azucar",
+        "precio": 4.2,
+        "stock": 15
+    }
+]
